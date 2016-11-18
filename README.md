@@ -12,6 +12,8 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-1.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo1.1.png?raw=true)
 
 **หมายเหตุ** ในบรรทัดที่ 23 หากนักศึกษาต้องการแสดงไฟล์อื่น ก็ให้ใส่ path พร้อมชื่อ แต่ต้องใส่ \\ แทน \ เนื่องจาก ในภาษา C# นั้น เครื่องหมาย \ จะเป็น escape character เช่นเดียวกับภาษา c และ c++
 
@@ -23,7 +25,8 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-2.png">
 </p> 
-
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo2.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo2.1.png?raw=true)
 
 ### การ Zoom in  
 คือการกำหนดให้ Rectangle ปลายทาง โตกว่า Rectangle ของภาพ ในที่นี้จะเลือกภาพมาแสดง
@@ -31,17 +34,22 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-3.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo3.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo3.1.png?raw=true)
 
 ### การพลิกและหมุนภาพ
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-4.png">
 </p> 
-
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo4.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo4.1.png?raw=true)
 
 ## การเขียนข้อความลงในภาพ
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-5.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo5.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-12/blob/master/imgs/photo5.1.png?raw=true)
 
 
 ##แบบฝึกหัด
